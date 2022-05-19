@@ -1,0 +1,1 @@
+�� sr java.util.ArrayListx����a� I sizexp   w   sr main.Train.Train��f�Ԩ�� I idIseatsCoupeI seatsLuxIseatsReservedI timeI trainNumberL stationt Ljava/lang/String;xp              �   t Украинаsq ~               �   t Украинаsq ~               l   tМинскx
